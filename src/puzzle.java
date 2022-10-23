@@ -22,7 +22,6 @@ public class puzzle {
 
             kata.add(new ArrayList<String>(Arrays.asList("honk", "honker", "roe", "ore", "her","hen", "one","hero", "hone", "kern", "hern", "neo", "hon", "nor", "hoe", "ken", "oner")));
 
-            System.out.println(kata.get(0));
             System.out.println("Coepoe Word Puzzle");
             System.out.println("===============================");
             System.out.println("\nRules :");
